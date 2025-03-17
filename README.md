@@ -1,4 +1,5 @@
 # click_counter
+<img width="585" alt="image" src="https://github.com/user-attachments/assets/464d87e5-abc5-4d5c-9c20-a60b0396c76f" />
 
 A new Flutter project created with https://flutlab.io
 
